@@ -1,0 +1,5 @@
+If you are completely new to WebStorm, read Quick Start Guide. The links in this section will lead you to more detailed instructions.
+Before starting with WebStorm, take a look at the essentials since they are useful for more productive usage of WebStorm.
+If you want to learn about the WebStorm UI, then take a guided tour. The parts Tool Windows and WebStorm Editor tell you everything you need to know to get a grip of these UI elements.
+If you click Help button on a dialog, you will see the reference page that gives descriptions of controls and fields of each dialog.
+Besides the dialog descriptions, the part Reference also keeps miscellaneous important information, like icons reference, index of menu items, version control reference, etc.
